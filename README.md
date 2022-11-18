@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-I'm Mike from Moscow, Russia. 15 yo
+I'm Mike from Moscow, Russia. 16 yo
 
 
 ## 🛠 Skills
