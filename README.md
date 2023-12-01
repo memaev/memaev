@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-I'm Mikhail from Ashkelon, Israel. 16 yo
+I'm Mikhail from Ashkelon, Israel. 17 yo
 
 
 ## 🛠 Skills
