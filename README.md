@@ -15,6 +15,9 @@ I'm a Sofware Developer specializing in backend and mobile development with 4+ y
 - NoSQL: MongoDB
 - Liquibase
 - Other: Kafka, Elasticsearch
+- CI/CD: Github Actions, Jenkins
+- Docker Compose, Kubernetes
+- Maven, Gradle
 
 ### Mobile:
 - Java, Kotlin
