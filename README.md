@@ -5,15 +5,22 @@ I'm Mikhail from Israel.
 
 
 ## 🛠 Skills
-I'm a Sofware Developer specializing in backend and mobile development with 4+ years of experience in building high efficient, structured and amazing applications by scratch. 
+I'm a Sofware Developer specializing in backend and mobile development with 4+ years of experience in building high efficient, structured and amazing applications from scratch. 
+###Backend:
+- Java, Kotlin, Python
+- Spring Framework
+- Unit testing (Junit), Integration testing (TestContainers), Regression testing
+- SQL Databases: MySQL, PostgreSQL, SingleStore
+- NoSQL: MongoDB
+- Liquibase
+- Other: Kafka, Elasticsearch
+
+###Mobile:
 - Java, Kotlin
-- Spring Boot, Spring Core
-- Clean Architecture, SOLID
+- Kotlin Multiplatform & Compose Multiplatform
+- Clean Architecture, Multi-Module architecture
 - Kotlin Coroutines
-- Architectural Patterns
 - Android Jetpack framework
-- Unit testing, UI testing, Integration testing: JUnit, Espresso, TestContainers, RestAssured
-- Design Patterns
-- SQL (MySQL, PostgreSQL)
+- Retrofit, Ktor
+- Dependency Injection: Dagger Hilt, Koin
 - Firebase
-- REST API (Retrofit, OkHttp)
